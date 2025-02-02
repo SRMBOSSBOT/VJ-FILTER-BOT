@@ -244,13 +244,12 @@ Nᴀᴍᴇ - {}"""
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """📕 Nᴀᴍᴇ ➠ <b>{file_name}</b>
+    CAPTION = """<b>📕 Nᴀᴍᴇ ➠ {file_name}
 
-🔗 Sɪᴢᴇ ➠ <b>{file_size}</b>
- Lᴀɴɢᴜᴀɢᴇ ➠ <b>{file_language}</b>
+<b>🔗 Sɪᴢᴇ ➠ {file_size}
 
-<b>» <a href="https://t.me/srm_bot_group">Mᴏᴠɪᴇs Rᴇǫᴜᴇsᴛ Gʀᴏᴜᴘ</a> «</b>
-<b>» <a href="https://t.me/srmupdate">Aʟʟ Cʜᴀɴɴᴇʟ Lɪɴᴋs</a> «</b>""" 
+<b>» <a href="https://t.me/srm_bot_group">Mᴏᴠɪᴇs Rᴇǫᴜᴇsᴛ Gʀᴏᴜᴘ</a> «
+<b>» <a href="https://t.me/srmupdate">Uᴘᴅᴀᴛᴇ Cʜᴀɴɴᴇʟ Lɪɴᴋs</a> «</b>""" 
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
